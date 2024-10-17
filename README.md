@@ -10,6 +10,7 @@ Open Canvas is an open source web application for collaborating with agents to b
 2. **Built in memory**: Open Canvas ships out of the box with a [reflection agent](https://langchain-ai.github.io/langgraphjs/tutorials/reflection/reflection/) which stores style rules and user insights in a [shared memory store](https://langchain-ai.github.io/langgraphjs/concepts/memory/). This allows Open Canvas to remember facts about you across sessions.
 3. **Start from existing documents**: Open Canvas allows users to start with a blank text, or code editor in the language of their choice, allowing you to start the session with your existing content, instead of being forced to start with a chat interaction. We believe this is an ideal UX because many times you will already have some content to start with, and want to iterate on-top of it.
 
+
 ## How to use
 
 You can use our deployed version for free by visiting [open-canvas-lc.vercel.app](https://open-canvas-lc.vercel.app/)
